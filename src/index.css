@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.container {
+    width: 1023px;
+    margin: 0 auto;
+}
+
+section {
+    margin: 50px auto;
+}

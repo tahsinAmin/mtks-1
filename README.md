@@ -1,0 +1,1 @@
+- [] Tailwind's primary and secondary color
